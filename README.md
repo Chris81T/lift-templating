@@ -1,4 +1,4 @@
-## simple lift web project ( liftweb.net ) for learning comet / actor behavior
+## simple lift web project ( liftweb.net )
 
 How to:
 - 1. check out the project
